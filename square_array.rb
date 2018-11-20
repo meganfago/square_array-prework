@@ -4,3 +4,4 @@ def square_array(numbers)
     squared_numbers<<number**2
   end
 end
+return squared_numbers
